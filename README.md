@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Qutaibah Alkaraimeh
-- 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently learning Python.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/qutaibah-alkaraimeh-58aba0199).
 
 <!---
